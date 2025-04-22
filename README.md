@@ -4,6 +4,11 @@
 
 Gives you additional extension functions for Unity's `Vector2`, `Vector2Int`, `Vector3`, `Vector3Int` and `Vector4` so that they read more naturally.
 
+## Installation
+
+To install this package, go to `Window > Package Manager > Click on the '+' Button > Install package from git URL` 
+then paste this URL: `https://github.com/Jyodann/vector-extensions.git`
+
 ## Usage
 
 For example, to get the Distance between two Vectors:
