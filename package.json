@@ -1,0 +1,12 @@
+{
+  "name": "com.jyodann.vector-extensions",
+  "version": "0.0.1",
+  "displayName": "Vector Extensions",
+  "description": "Extension functions for Common vector operations",
+  "unity": "2017.2",
+  "author": {
+    "name": "Jyodann",
+    "email": "hello@jyodann.com",
+    "url": "https://jyodann.com/"
+  }
+}
